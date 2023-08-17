@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Cybersecurity Engineer @ <a href="www.mindpointgroup.com" target="blank">MindPoint Group</a>
+- 🔭 I’m currently working as a Cybersecurity Engineer @ <a href="https://www.mindpointgroup.com" target="blank">MindPoint Group</a>
 
 - 🌱 Interests include developing dynamic web applications using frameworks like Flask and SQL servers.
 
