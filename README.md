@@ -9,8 +9,6 @@
 
 - 🌱 Interests include developing dynamic web applications using frameworks like Flask and SQL servers.
 
-- 🤝 I’m available for freelancing.
-
-- 📫 How to reach me **eric@lucedev.com**
+- 🤝 I’m available for freelancing **contact@lucedev.com**
 
 - 📄 Connect with me on linkedIn **https://www.linkedin.com/in/ericmluce/**
