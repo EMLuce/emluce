@@ -11,4 +11,6 @@
 
 - 🤝 I’m available for freelancing **contact@lucedev.com**
 
+- 🖥 Please take a moment to visit the website of my independent company: **https://www.lucedev.com/**
+
 - 📄 Connect with me on linkedIn **https://www.linkedin.com/in/ericmluce/**
